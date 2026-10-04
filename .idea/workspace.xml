@@ -1,19 +1,92 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="5ae905e4-eab3-44af-ba72-cb1a981ef553" name="Changes" comment="" />
+    <list default="true" id="5ae905e4-eab3-44af-ba72-cb1a981ef553" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/IPL ML Project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/IPL ML Project.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1,
-  "fromUser": false
-}]]></component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.3165024626112298" />
+      <entry key="MS500" value="2.968991502742397" />
+      <entry key="S2" value="7.539783190890111" />
+      <entry key="S5" value="12.999079923968125" />
+      <entry key="S10" value="19.364769851209584" />
+      <entry key="S30" value="44.27136930957184" />
+      <entry key="S60" value="75.70952739702972" />
+      <entry key="M2" value="118.9241299157813" />
+      <entry key="M5" value="181.96965818318643" />
+      <entry key="M10" value="241.17331501159487" />
+      <entry key="M15" value="290.9747466437644" />
+      <entry key="M30" value="403.1074336316123" />
+      <entry key="H1" value="519.328859357196" />
+      <entry key="H2" value="608.0497338757533" />
+      <entry key="H4" value="663.7352627061493" />
+      <entry key="D1" value="717.3796722583364" />
+      <entry key="W1" value="727.3206445553544" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="2.157208582119706E-102" />
+      <entry key="S5" value="2.1555438185858814E-41" />
+      <entry key="S10" value="4.642783452397797E-21" />
+      <entry key="S30" value="1.668243633044517E-7" />
+      <entry key="S60" value="4.0844716332728734E-4" />
+      <entry key="M2" value="0.020323518664541008" />
+      <entry key="M5" value="0.2644374456972044" />
+      <entry key="M10" value="0.9496151468204231" />
+      <entry key="M15" value="1.6799518173792676" />
+      <entry key="M30" value="3.3485955320719505" />
+      <entry key="H1" value="5.033098320066148" />
+      <entry key="H2" value="6.296372825784194" />
+      <entry key="H4" value="7.082779304906105" />
+      <entry key="D1" value="7.836981351543221" />
+      <entry key="W1" value="7.976447736143679" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.2475758968602715" />
+      <entry key="MS500" value="2.9389601097416715" />
+      <entry key="S2" value="7.516058789201676" />
+      <entry key="S5" value="12.973796517410115" />
+      <entry key="S10" value="19.339932342305133" />
+      <entry key="S30" value="44.25324345910853" />
+      <entry key="S60" value="75.69629539165373" />
+      <entry key="M2" value="118.9324395166857" />
+      <entry key="M5" value="182.2187647709223" />
+      <entry key="M10" value="242.10507614365343" />
+      <entry key="M15" value="292.63642987284135" />
+      <entry key="M30" value="406.4397237266646" />
+      <entry key="H1" value="524.3500397424592" />
+      <entry key="H2" value="614.338679821174" />
+      <entry key="H4" value="670.8138605870353" />
+      <entry key="D1" value="725.2158806897518" />
+      <entry key="W1" value="735.2969798486943" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3KB3xpYFT9LGOSB3zk92ltBjrFy" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -26,12 +99,25 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "C:/Users/techn/Downloads/iplprojectml",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "to.speed.mode.migration.done": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\techn\Downloads\iplprojectml" />
+      <recent name="C:\Users\techn\PycharmProjects\IPL ML Project" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -46,7 +132,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1791017384927</updated>
-      <workItem from="1791017385830" duration="17000" />
+      <workItem from="1791017385830" duration="4053000" />
+      <workItem from="1791109468685" duration="2076000" />
     </task>
     <servers />
   </component>

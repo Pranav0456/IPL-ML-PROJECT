@@ -1,0 +1,1 @@
+﻿streamlit'npandas'nscikit-learn==1.6.1
