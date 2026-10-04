@@ -36,3 +36,23 @@ During the second innings of a T20 cricket match, the momentum shifts rapidly wi
    ```bash
    git clone [https://github.com/Pranav0456/IPL-ML-PROJECT.git](https://github.com/Pranav0456/IPL-ML-PROJECT.git)
    cd IPL-ML-PROJECT
+2. **Create and activate a Virtual environment:**
+    ```bash
+     python -m venv .venv
+   #Windows
+   .venv\Scripts\activate
+   #macOS/Linux
+   source.venv/bin/activate
+3. **Install the dependencies:**
+   ```bash
+   pip install -r requirements.txt
+4. **Run the Streamlit application:**
+   ```bash
+    streamlit run app.py
+5.**Repository Structure:**
+ IPL-ML-PROJECT/
+├── app.py                 # Streamlit frontend & inference script
+├── pipe.pkl               # Serialized ML pipeline model
+├── requirements.txt       # Project dependencies
+├── .python-version        # Environment runtime specification
+└── README.md              # Project documentation
